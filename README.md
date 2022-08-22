@@ -1,1 +1,1 @@
-# SocialNetworkAnalysis
+SocialNetworkAnalysis Course
